@@ -119,6 +119,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cazzano/cazzano/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cazzano/cazzano/output/github-snake.svg" alt="Snake animation" />
 
 ###
